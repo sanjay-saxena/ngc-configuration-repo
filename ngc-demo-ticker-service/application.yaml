@@ -1,0 +1,8 @@
+demo:
+  dummyToken: ${kv.dummyToken}
+  greeting: "default profile: Welcome to NGC Demo Ticker Service!!"
+
+iex:
+  baseUri: https://sandbox.iexapis.com/stable/
+  publishableToken: ${kv.publishableToken}
+
